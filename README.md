@@ -3,7 +3,7 @@
 ## Projeto Final (Quest - Dev em Dobro) Módulo JavaScript Avançado
 
 ## Desafio:
-Implementar alterações solicitadas pelo gerente de projetos ao projeto criado anteriormente
+Implementar alterações solicitadas pelo gerente de projetos ao projeto criado anteriormente (Projeto
 que consome a API do github usando o fetch para buscar informações dos usuários e mostrar em tela.
 ## Objetivos:
 * Permitir pesquisa de usuários do github
