@@ -2,7 +2,9 @@
 
 ##Projeto Final Módulo JavaScript Avançado
 
-# Desafio: Implementar alterações solicitadas pelo gerente de projetos ao projeto criado anteriormente que consome a API do github usando o fetch para buscar informações dos usuários e mostrar em tela.
+## Desafio:
+Implementar alterações solicitadas pelo gerente de projetos ao projeto criado anteriormente
+que consome a API do github usando o fetch para buscar informações dos usuários e mostrar em tela.
 ## Objetivos:
 * Permitir pesquisa de usuários do github
 * Obter e exibir dados de:
