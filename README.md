@@ -1,12 +1,13 @@
  # DevQuest - quest-jsavancado-apigithub
 
-##Projeto Final Módulo JavaScript Avançado
+## Projeto Final (Quest - Dev em Dobro) Módulo JavaScript Avançado
 
 ## Desafio:
 Implementar alterações solicitadas pelo gerente de projetos ao projeto criado anteriormente
 que consome a API do github usando o fetch para buscar informações dos usuários e mostrar em tela.
 ## Objetivos:
 * Permitir pesquisa de usuários do github
+  
 * Obter e exibir dados de:
     * Nome
     * Foto de perfil
@@ -17,5 +18,7 @@ que consome a API do github usando o fetch para buscar informações dos usuári
     * Estrelas
     * Watchers 
     * Linguagens de programação do repositório
-* Código deve ser padronizado e limpo
+
+### Atenção
+    * Código deve ser padronizado e limpo
     * Utilize refatoração
